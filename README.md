@@ -1,10 +1,10 @@
-# 📈 Apple Stock Price Prediction
+#  Apple Stock Price Prediction
 
 This project uses **historical stock data** of Apple Inc. (AAPL) to **predict the next day's closing price** using machine learning models (Linear Regression and Random Forest).
 
 ---
 
-## 🚀 Objective
+##  Objective
 
 - Fetch real-time Apple stock data using the `yfinance` API.
 - Train ML models to predict future stock prices.
@@ -13,7 +13,7 @@ This project uses **historical stock data** of Apple Inc. (AAPL) to **predict th
 
 ---
 
-## 🗃️ Dataset
+## 🗃 Dataset
 
 - Source: [Yahoo Finance](https://finance.yahoo.com/)
 - Retrieved using: `yfinance` Python library
@@ -22,14 +22,14 @@ This project uses **historical stock data** of Apple Inc. (AAPL) to **predict th
 
 ---
 
-## 🧠 Models Used
+##  Models Used
 
 - **Linear Regression**
 - **Random Forest Regressor**
 
 ---
 
-## 🛠️ Requirements
+## 🛠 Requirements
 
 Install dependencies using:
 
