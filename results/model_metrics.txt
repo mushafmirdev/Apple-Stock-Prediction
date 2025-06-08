@@ -1,0 +1,9 @@
+Model Evaluation Metrics:
+
+Linear Regression:
+- R² Score: 0.9982
+- Mean Squared Error (MSE): 1.1683
+
+Random Forest:
+- R² Score: 0.0766
+- Mean Squared Error (MSE): 599.1056
