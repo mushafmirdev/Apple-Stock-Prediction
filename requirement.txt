@@ -1,0 +1,8 @@
+Requirement to use the repo are:
+-Jupyter Notebook/ VS code with ipynb extension
+Libraries Used:
+-pandas
+-numpy
+-matplotlib.pyplot
+-seaborn
+-yfinance
